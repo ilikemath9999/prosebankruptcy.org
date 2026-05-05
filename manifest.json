@@ -1,0 +1,18 @@
+{
+  "name": "Pro Se Bankruptcy",
+  "short_name": "Pro Se Bk",
+  "description": "Pro se (self-represented) bankruptcy resources from the Open Bankruptcy Project.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ]
+}
